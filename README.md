@@ -40,7 +40,7 @@ vsm-similarity-system/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR-USERNAME/vsm-similarity-system.git
+git clone https://github.com/SereneSkyy/vsm-similarity-system.git
 cd vsm-similarity-system
 
 # 2. Set up a virtual environment
